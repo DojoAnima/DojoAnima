@@ -2,3 +2,8 @@ E:\Testes\DojoAnima01\DojoAnima01\bin\Debug\DojoAnima01.dll
 E:\Testes\DojoAnima01\DojoAnima01\bin\Debug\DojoAnima01.pdb
 E:\Testes\DojoAnima01\DojoAnima01\obj\Debug\DojoAnima01.dll
 E:\Testes\DojoAnima01\DojoAnima01\obj\Debug\DojoAnima01.pdb
+E:\Projetos\DojoAnima01\DojoAnima01\bin\Debug\DojoAnima01.dll
+E:\Projetos\DojoAnima01\DojoAnima01\bin\Debug\DojoAnima01.pdb
+E:\Projetos\DojoAnima01\DojoAnima01\obj\Debug\DojoAnima01.csprojResolveAssemblyReference.cache
+E:\Projetos\DojoAnima01\DojoAnima01\obj\Debug\DojoAnima01.dll
+E:\Projetos\DojoAnima01\DojoAnima01\obj\Debug\DojoAnima01.pdb
